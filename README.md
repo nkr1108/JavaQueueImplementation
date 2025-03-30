@@ -1,7 +1,7 @@
 **Implements two types of Queue data structures using Arrays:**
 
-Fixed Front Queue
-Floating Front Queue
+* Fixed Front Queue
+* Floating Front Queue
 
 **Main Program**
 
